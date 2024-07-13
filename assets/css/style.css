@@ -220,6 +220,7 @@ hr {
 
     #benefits-physical > div, #benefits-mental > div {
         width: 75%;
+        justify-content: center;
     }
 
     #benefits-mental > div {
