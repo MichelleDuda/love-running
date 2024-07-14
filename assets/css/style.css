@@ -321,7 +321,7 @@ main {
 
     #benefits-mental > div {
         text-align: end;
-        align-self: felx-end;
+        align-self: flex-end;
     }
 
     /* Gallery page */
